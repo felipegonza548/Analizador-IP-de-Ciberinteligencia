@@ -1,0 +1,13 @@
+# Python cache
+__pycache__/
+
+# Temp files
+*.tmp
+*.swp
+
+# Generated reports
+reports/*.json
+html_reports/*.html
+
+# Metadata
+.DS_Store
