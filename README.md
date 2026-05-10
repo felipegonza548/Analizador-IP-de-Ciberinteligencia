@@ -1,4 +1,4 @@
-cat > README.md << 'EOF'
+cat > README.md << 
 # Analizador-IP-de-ciberinteligencia
 
 Herramienta de Threat Intelligence desarrollada en Python para automatizar el análisis y enriquecimiento de direcciones IP, generando reportes estructurados en JSON y HTML orientados a entornos Blue Team y automatización SOC.
